@@ -27,29 +27,29 @@
 
 ## 2. 게임 MVP 22종 (웹, 도형 그래픽)
 
-인기 게임의 핵심 로직을 도형만으로 다시 만든 웹 MVP, 그리고 자체 게임입니다. "원작" 열이 로직의 출처입니다.
+인기 게임의 핵심 로직을 도형만으로 다시 만든 웹 MVP, 그리고 자체 게임입니다. "로직 출처" 열이 분석한 원본 게임입니다.
 
-| # | 미리보기 | 이름 | 원작 / 출처 | 장르 | sim |
+| # | 미리보기 | 이름 | 로직 출처 | 장르 | sim |
 |---|---|---|---|---|---|
-| 1 | <img src="img/tds_clone.png" width="110"> | TDS clone | TDS - Tower Destiny Survive (SayGames) | 타워 러너 · 샷건 조준 | 21/21 |
-| 2 | <img src="img/eternal_empire.png" width="110"> | Eternal Empire clone | Eternal Empire (Nature Games · We Are Warriors! 장르) | 레인 거점전 · 시대 진화 | 35/35 |
-| 3 | <img src="img/galaxy_defense.png" width="110"> | Galaxy Defense clone | Galaxy Defense (CyberJoy Games) | 자동 포탑 방어 · 3택1 카드 | 38/38 |
-| 4 | <img src="img/cup_heroes.png" width="110"> | Cup Heroes clone | Cup Heroes (VOODOO) | 자동 전투 · 컵 물리 증식 | 51/51 |
-| 5 | <img src="img/solo_leveling_idle.png" width="110"> | 나 혼자 만렙 키우기 clone | 나 혼자 만렙 키우기 (웹툰 IP 방치형 핵앤슬래시 RPG) | 방치형 RPG · 소환 가차 | 55/55 |
-| 6 | <img src="img/top_lords.png" width="110"> | Top Lords clone | 탑 로드 Top Lords (GAME SPARK · 러너 유입 + SLG) | 드래그 러너 · 영지 SLG | 60/60 |
-| 7 | <img src="img/kingshot_clone.png" width="110"> | Kingshot clone | Kingshot (Century Games · 광고 훅 + 4X SLG + 집결 BM) | 광고 훅 원정 · 4X 영지 · 집결전 | 62/62 |
+| 1 | <img src="img/logic_01.png" width="110"> | 로직 연구 #1 | TDS - Tower Destiny Survive (SayGames) | 타워 러너 · 샷건 조준 | 21/21 |
+| 2 | <img src="img/logic_02.png" width="110"> | 로직 연구 #2 | Eternal Empire (Nature Games · We Are Warriors! 장르) | 레인 거점전 · 시대 진화 | 35/35 |
+| 3 | <img src="img/logic_03.png" width="110"> | 로직 연구 #3 | Galaxy Defense (CyberJoy Games) | 자동 포탑 방어 · 3택1 카드 | 38/38 |
+| 4 | <img src="img/logic_04.png" width="110"> | 로직 연구 #4 | Cup Heroes (VOODOO) | 자동 전투 · 컵 물리 증식 | 51/51 |
+| 5 | <img src="img/logic_05.png" width="110"> | 로직 연구 #5 | 나 혼자 만렙 키우기 (웹툰 IP 방치형 핵앤슬래시 RPG) | 방치형 RPG · 소환 가차 | 55/55 |
+| 6 | <img src="img/logic_06.png" width="110"> | 로직 연구 #6 | 탑 로드 Top Lords (GAME SPARK · 러너 유입 + SLG) | 드래그 러너 · 영지 SLG | 60/60 |
+| 7 | <img src="img/logic_07.png" width="110"> | 로직 연구 #7 | Kingshot (Century Games · 광고 훅 + 4X SLG + 집결 BM) | 광고 훅 원정 · 4X 영지 · 집결전 | 62/62 |
 | 8 |  | snake_survivor (own game, Godot) — reference | 자체 (Snake × Survivors-like, 2026-08) | 동료 열차 서바이벌 → 원정 메타 | 16/16 headless (card12) |
 | 9 | <img src="img/phase2_concepts.png" width="110"> | Phase 2 구상안 A–F — 참고 카드 6장 + 시연 화면 6장 | 자체 구상 (Sage 2026-09-11, Hun 요청) | 구상안 · 참고 카드 |  |
 | 10 | <img src="img/rescue_run.png" width="110"> | Rescue Run 구출 러너 — 자체 #1 (구상안 A) | 자체 (Phase 2 구상안 A, Sage 2026-09-11) | 구출 러너 · 파티 시너지 · 보스 DPS 체크 | 58/58 |
 | 11 | <img src="img/layer_town.png" width="110"> | Layer Town 층탑 마을 — 자체 #2 (구상안 C) | 자체 (Phase 2 구상안 C, Sage 2026-09-11) | 층 순서 퍼즐 TD · 난민 마을 · 시간 게이트 | 57/57 |
-| 12 | <img src="img/battle_cats_clone.png" width="110"> | Battle Cats clone 냥코 대전쟁 — 모방 #12 | 냥코 대전쟁 The Battle Cats (PONOS) | 횡스크롤 타워 디펜스 · 실시간 경제 · 히트백 | 64/64 |
-| 13 | <img src="img/loop_king_clone.png" width="110"> | Loop King clone 루프 킹 — 모방 #13 | Loop King - 방치형 RPG (Sugarscone) | 방치형 RPG · 루프 · 노드 스킬 트리 | 45/45 |
+| 12 | <img src="img/logic_12.png" width="110"> | 로직 연구 #12 | 냥코 대전쟁 The Battle Cats (PONOS) | 횡스크롤 타워 디펜스 · 실시간 경제 · 히트백 | 64/64 |
+| 13 | <img src="img/logic_13.png" width="110"> | 로직 연구 #13 | Loop King - 방치형 RPG (Sugarscone) | 방치형 RPG · 루프 · 노드 스킬 트리 | 45/45 |
 | 14 | <img src="img/casual_concepts.png" width="110"> | 캐주얼 MVP 구상 G–K — 2026 하이브리드 캐주얼 5종 (사전조사 + 구상) | Smash Fest · Money Sort · Pixel Flow · Food Hunt · Bus Traffic Fever (2026 하이브리드 캐주얼) | 캐주얼 구상 G–K |  |
-| 15 | <img src="img/chain_smash.png" width="110"> | Chain Smash 대포 연쇄 (캐주얼 G · Smash Fest 모방) | Smash Fest (물리 파괴 퍼즐) — 격자 지지 규칙으로 축소 | 캐주얼 · 물리 연쇄 | 36/36 |
-| 16 | <img src="img/cash_tray.png" width="110"> | Cash Tray 지폐 트레이 (캐주얼 H · Money Sort 모방) | Money Sort: Merge Puzzle (Loop Games, 2026-03) — 정렬·머지 | 캐주얼 · 공간 압박·머지 | 30/30 |
-| 17 | <img src="img/belt_shooters.png" width="110"> | Belt Shooters 컨베이어 사수 (캐주얼 I · Pixel Flow 모방) | Pixel Flow! (Loom Games) — 컨베이어 색 사격·슬롯 | 캐주얼 · 흐름·타이밍 (슬롯 계열) | 28/28 |
-| 18 | <img src="img/ant_reach.png" width="110"> | Ant Reach 개미 노출 퍼즐 (캐주얼 J · Food Hunt 모방) | Food Hunt: Pixel Puzzle (EVERFUN) — 개미 색 소비·순서 | 캐주얼 · 노출 순서 (슬롯 계열) | 27/27 |
-| 19 | <img src="img/arrow_buses.png" width="110"> | Arrow Buses 화살표 버스 (캐주얼 K · Bus Traffic Fever 모방) | Bus Traffic Fever! (구 Bus Rush Fever) — 방향 막힘·승객 색 | 캐주얼 · 방향 해제 (슬롯 계열) | 25/25 |
+| 15 | <img src="img/logic_15.png" width="110"> | 로직 연구 #15 | Smash Fest (물리 파괴 퍼즐) — 격자 지지 규칙으로 축소 | 캐주얼 · 물리 연쇄 | 36/36 |
+| 16 | <img src="img/logic_16.png" width="110"> | 로직 연구 #16 | Money Sort: Merge Puzzle (Loop Games, 2026-03) — 정렬·머지 | 캐주얼 · 공간 압박·머지 | 30/30 |
+| 17 | <img src="img/logic_17.png" width="110"> | 로직 연구 #17 | Pixel Flow! (Loom Games) — 컨베이어 색 사격·슬롯 | 캐주얼 · 흐름·타이밍 (슬롯 계열) | 28/28 |
+| 18 | <img src="img/logic_18.png" width="110"> | 로직 연구 #18 | Food Hunt: Pixel Puzzle (EVERFUN) — 개미 색 소비·순서 | 캐주얼 · 노출 순서 (슬롯 계열) | 27/27 |
+| 19 | <img src="img/logic_19.png" width="110"> | 로직 연구 #19 | Bus Traffic Fever! (구 Bus Rush Fever) — 방향 막힘·승객 색 | 캐주얼 · 방향 해제 (슬롯 계열) | 25/25 |
 | 20 | <img src="img/lantern_harbor.png" width="110"> | Lantern Harbor 등불 항구 (hook_game A · 자체 상업 라인) | 자체 (Bus Jam / Parking Jam 계열 + 바람 카드) — arrow_buses #19 뼈대 | 캐주얼 · 방향 해제 (슬롯 계열) · 상업 | 29/29 |
 | 21 | <img src="img/wandering_keep.png" width="110"> | Wandering Keep 걷는 성 (hook_game B · greybox) | 자체 (layer_town #11 층 순서 + rescue_run 1:1 카운터 + battle_cats 지갑 + kingshot 난민) | 층 순서 퍼즐 TD · 상업 후보 | 36/36 |
 | 22 | <img src="img/jeomjip.png" width="110"> | 망한 점집을 물려받았다 (paid_chart · greybox) | 자체 (paid_chart spec v1) | 사주 경영 시뮬 · 유료 차트 후보 (iOS) | 20/20 |
@@ -138,7 +138,7 @@
 - 10-07 · Survivor Monster Roster — 재생성 검수 (10-07) — 결정
 - 10-07 · VFX 팩 재생성 검수 — Status Effect (10-07 검토 대기) · Projectile & Buff (적용 완료) — 결정
 
-게임 외 시안(앱 화면 · 채널 · 굿즈 등) 58건은 내부 랩에만 둡니다.
+게임 외 시안(앱 화면 · 채널 · 굿즈 등) 59건은 내부 랩에만 둡니다.
 
 ## 🔗 관련 문서
 - [`logic/genres.md`](../logic/genres.md): 위 MVP들의 장르별 루프와 함정
