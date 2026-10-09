@@ -1,0 +1,13 @@
+config_version=5
+
+[application]
+config/name="game-reference-godot-patterns"
+run/main_scene="res://tests/Main.tscn"
+
+[autoload]
+EventBus="*res://patterns/EventBus.gd"
+SaveManager="*res://patterns/SaveManager.gd"
+Economy="*res://patterns/Economy.gd"
+
+[debug]
+gdscript/warnings/untyped_declaration=1

@@ -7,7 +7,7 @@
 2. [`logic/genres.md`](logic/genres.md): 만들려는 장르의 루프와 함정
 3. 해당 플랫폼 폴더
    - Roblox: [`platforms/roblox/`](platforms/roblox/), 반드시 `RULES.md`를 먼저 읽기
-   - 앱 게임: [`platforms/app/`](platforms/app/)
+   - 앱 게임(Godot): [`platforms/godot/`](platforms/godot/), 반드시 `RULES.md`를 먼저 읽기
 4. 외부 원전이 필요하면 [`sources.md`](sources.md)
 
 ## 공통 규칙
