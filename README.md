@@ -23,6 +23,7 @@ game-reference/
 │     ├─ architecture.md   # 서버·클라이언트 신뢰 경계, Rojo 구조, Service/Controller
 │     ├─ libraries.md      # 검증된 오픈소스 카탈로그와 2026 권장 스택
 │     └─ patterns/         # Luau 예제: 데이터 저장, Remote 검증, 라운드, 결제
+├─ our_games/              # 우리 게임 스냅샷: 훅 게임 · MVP 22종(원작 출처) · 엔진 프로젝트 · 게임 디자인 시안 목록
 ├─ sources.md              # 원전: 책, 아티클, 오픈소스 게임, 큐레이션 목록
 └─ AGENTS.md
 ```
