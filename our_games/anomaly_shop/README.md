@@ -7,6 +7,7 @@
 | 문서 | 내용 |
 |---|---|
 | [`reading_spec_v1.md`](reading_spec_v1.md) | 점 보기 미니게임 기획서 v1 (도구 4+1, 향 예산, 5밤 구조, 생성 규칙, 협동, 측정, 첫 프로토 범위) |
+| [`review_2026-10-10.md`](review_2026-10-10.md) | **기획서 검토 + 비교작 조사** (Roblox 6 · Steam 3, 점집 테마 빈자리 확인, 개선 P1~P9, 발산 아이디어 A~E) |
 | [`RESEARCH_REQUESTS.md`](RESEARCH_REQUESTS.md) | **AI 팀에 맡기는 조사 질문.** 질문마다 필요한 것, 이유, "찾았다"의 기준 |
 | [`../../references/anomaly_shop_roblox.md`](../../references/anomaly_shop_roblox.md) | 설계 시사점 12가지, Roblox 구현 자료, 등급 정책, 만세력 라이브러리 |
 
