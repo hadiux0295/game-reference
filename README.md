@@ -24,6 +24,7 @@ game-reference/
 │     ├─ libraries.md      # 검증된 오픈소스 카탈로그와 2026 권장 스택
 │     └─ patterns/         # Luau 예제: 데이터 저장, Remote 검증, 라운드, 결제
 ├─ our_games/              # 우리 게임 스냅샷: 훅 게임 · MVP 22종(원작 출처) · 엔진 프로젝트 · 게임 디자인 시안 목록
+│  └─ anomaly_shop/        # R-A 이상현상 점집 작업 현황 · 점 보기 기획서 · 조사 요청
 ├─ references/             # 우리 게임별 참고 자료와 설계 시사점 (이상현상 점집, 등불 항구, 걷는 성…)
 ├─ sources.md              # 원전: 책, 아티클, 오픈소스 게임, 큐레이션 목록
 └─ AGENTS.md
