@@ -22,6 +22,8 @@
 | 호러 · 판별 (이상현상 · 검문 · 교대 근무) | [`reference/genres/horror/`](reference/genres/horror/README.md) | 대표작 · 판별 설계 원전 · Roblox 호러 등급 |
 | 아케이드 · Roblox 포맷 (Obby · 러너 · 타이쿤 · .io · 라운드제 파티) | [`reference/genres/arcade/`](reference/genres/arcade/README.md) | 대표작 · 포맷별 루프 · 미로/물리 자료 |
 
+장르 폴더마다 `README.md`(무엇이 팔리고 왜) · `logic.md`(**기본 베이스 로직**: 구현 뼈대) · `sim/`(파이썬 규칙 시뮬레이션, `--test`로 검증)가 있습니다.
+
 장르와 무관한 공통 시스템(게임 루프, FSM, RNG, 경제, 저장, 치트 방지)은 [`reference/systems/`](reference/systems/core_systems.md),
 엔진별 규칙과 검증된 패턴 코드는 [`reference/platforms/godot/`](reference/platforms/godot/RULES.md) · [`reference/platforms/roblox/`](reference/platforms/roblox/RULES.md),
 다른 게임의 실제 수치는 [`reference/data/`](reference/data/README.md), 원전·학습 자료는 [`reference/sources.md`](reference/sources.md).
@@ -34,8 +36,11 @@ game-reference/
 ├─ AGENTS.md                  ← AI 팀 규칙
 ├─ reference/                 ← ① 메인: 시간이 지나도 참인 것
 │  ├─ README.md               ← 장르 × 플랫폼 색인 + 채움 상태
-│  ├─ genres/                 ← 장르별 폴더 (같은 틀: 대표작 · 루프 · 수치 · 원전 · 함정 · 우리 적용)
+│  ├─ genres/                 ← 장르별 폴더 (같은 틀)
 │  │  ├─ strategy/  shooter/  moba/  casual/  rpg/  horror/  arcade/
+│  │  │   ├─ README.md        ← 대표작 · 루프 · 수치 · 원전 · 함정 · 우리 적용
+│  │  │   ├─ logic.md         ← 기본 베이스 로직 (MVP · 상태 머신 · 데이터 모델 · 시스템 · 틱 · 신뢰 경계 · 다이얼 · 플랫폼 매핑)
+│  │  │   └─ sim/             ← 파이썬 규칙 시뮬레이션 (python3 -I <장르>_sim.py --test)
 │  │  └─ _template.md
 │  ├─ systems/                ← 엔진 무관 공통 시스템 (core_systems.md · genres.md 한 장 요약)
 │  ├─ platforms/godot/        ← Godot 4 규칙 · 구조 · 라이브러리 · 검증된 GDScript 패턴 (+ 헤드리스 테스트)
