@@ -1,7 +1,7 @@
-# 우리 Roblox 프로젝트별 참고 자료
+# Roblox 포맷별 참고 자료: 미로 탈출 · .io 삼키기 · 물리 발파 · 무체크포인트 등반
 
-> 대상: [`our_games`](../our_games/README.md) §3의 Roblox 프로젝트. 조사일은 **2026-10-09**입니다.
-> 이상현상 점집은 [`anomaly_shop_roblox.md`](anomaly_shop_roblox.md)에 따로 정리했습니다.
+> 대상: [`our_games`](../../../our_games/README.md) §3의 Roblox 프로젝트. 조사일은 **2026-10-09**입니다.
+> 이상현상 점집은 [`anomaly_shop_roblox.md`](../horror/anomaly_detection.md)에 따로 정리했습니다.
 
 ## Gloamrun: 90초 탈출 (미로 생성, 출구 경로 비율 55~72%)
 
@@ -60,4 +60,4 @@
 - Tower of Hell 등 Roblox 탑 오비 개발자의 1차 인터뷰는 찾지 못했습니다.
 
 ## 공통 도구
-카메라 흔들림 [RbxCameraShaker](https://github.com/Sleitnick/RbxCameraShaker) (MIT), 영역 감지 [ZonePlus](https://github.com/1ForeverHD/ZonePlus) (MIT). 그 밖의 라이브러리는 [`../platforms/roblox/libraries.md`](../platforms/roblox/libraries.md)를 참고하세요.
+카메라 흔들림 [RbxCameraShaker](https://github.com/Sleitnick/RbxCameraShaker) (MIT), 영역 감지 [ZonePlus](https://github.com/1ForeverHD/ZonePlus) (MIT). 그 밖의 라이브러리는 [`../platforms/roblox/libraries.md`](../../platforms/roblox/libraries.md)를 참고하세요.

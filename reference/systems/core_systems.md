@@ -122,7 +122,7 @@ save = {
 function load(raw):
     data = raw ?? defaultSave()
     while data.version < CURRENT_VERSION:
-        data = migrations[data.version](data)   // v1→v2→v3 순차 변환
+        data = migrations[data.version](../data/README.md)   // v1→v2→v3 순차 변환
     return fillMissingFields(data, defaultSave()) // 새 필드 자동 보충
 ```
 

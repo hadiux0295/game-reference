@@ -1,7 +1,7 @@
-# Godot·앱 게임 참고 자료: 걷는 성 · Hearthkeep · snake_survivor · 점집 경영 시뮬
+# 층 순서 TD · 낮/밤 왕국 방어 · 서바이버류 · 경영 시뮬 참고 자료 (적용: 걷는 성 · Hearthkeep · snake_survivor · 점집)
 
-> 대상: [`our_games`](../our_games/README.md)의 **B 걷는 성**, **Hearthkeep**(Godot), **snake_survivor**(Godot), **망한 점집을 물려받았다 / A2 밤의 점집**
-> 조사일: **2026-10-09**. 확인하지 못한 항목은 **미검증**으로 표시했습니다. 퍼즐 생성과 난이도 일반론은 [`puzzle_levels.md`](puzzle_levels.md)를 보세요.
+> 대상: [`our_games`](../../../our_games/README.md)의 **B 걷는 성**, **Hearthkeep**(Godot), **snake_survivor**(Godot), **망한 점집을 물려받았다 / A2 밤의 점집**
+> 조사일: **2026-10-09**. 확인하지 못한 항목은 **미검증**으로 표시했습니다. 퍼즐 생성과 난이도 일반론은 [`puzzle_levels.md`](../casual/puzzle_levels.md)를 보세요.
 
 ---
 
@@ -11,7 +11,7 @@
 1. **층 순서를 전수 평가합니다.** 5층이면 순열이 5! = 120개뿐입니다. 웨이브마다 120개 순서를 모두 시뮬레이션하고, "이기는 순서의 수"(적을수록 어려움)와 "유일 정답 여부"를 난이도 다이얼로 씁니다. ([Fling! 전수 탐색](https://www.gamedeveloper.com/design/the-saturday-paper---exhausting))
 2. **Monster Train의 세로 레인 문법이 가장 가까운 선례입니다.** 3층과 화로로 구성되고, 적이 아래층부터 올라오며, 유닛을 어느 층에 둘지가 퍼즐입니다. MT2는 층 단위 버프(Room Card)를 추가했는데, 우리도 이것을 **두 번째 레이어로 아껴서** 쓰세요. ([Monster Train](https://en.wikipedia.org/wiki/Monster_Train), [리뷰](https://bossrush.net/2023/03/game-review-race-through-rings-of-hell-in-monster-train/), [MT2 발표](https://www.cosmocover.com/newsroom/monster-train-2-announced-for-2025-launch-on-pc-and-consoles-play-the-debut-demo-today-for-a-heavenly-successor-to-the-acclaimed-million-selling-hit))
 3. **난이도 스파이크는 한 곳만 바꿔서 만듭니다.** 적 특성 하나나 층 카운터 하나만 바꾸고 120개 순서를 다시 평가해서, 정답이 1~2개만 남는 레벨을 찾습니다. ([Sturtevant AIIDE 2020](https://ojs.aaai.org/index.php/AIIDE/article/view/7421))
-4. **적과 타워는 데이터로 정의합니다** ([`../platforms/godot/architecture.md`](../platforms/godot/architecture.md) §4의 Resource 패턴).
+4. **적과 타워는 데이터로 정의합니다** ([`../platforms/godot/architecture.md`](../../platforms/godot/architecture.md) §4의 Resource 패턴).
 5. **아트 전에 도형으로 1~2일 단위 프로토타입을 만듭니다.** Thronefall도 이렇게 약 2개월 동안 프로토타이핑했습니다. ([OwlCast/Thronefall](https://owlcast.substack.com/p/inside-the-code-how-two-developers))
 
 > "층 순서" TD와 정확히 같은 게임은 찾지 못했습니다. 차별점이 될 수 있어요.
@@ -65,7 +65,7 @@
 3. **해석에 플레이어의 저자성을 줍니다.** The Cosmic Wheel Sisterhood는 플레이어가 타로 덱을 직접 만들게 해서, 분기가 폭발하지 않으면서도 해석을 플레이어가 만들게 했습니다. ([Wikipedia](https://en.wikipedia.org/wiki/The_Cosmic_Wheel_Sisterhood), [Pocket Tactics](https://www.pockettactics.com/cosmic-wheel-sisterhood/tarot-in-games))
 4. **처방 퍼즐도 솔버로 검증합니다.** 모든 손님의 오행 막대에 정답 처방(보충·억제)이 **최소 1개** 있는지 확인하고, 오답 수를 측정해 난이도로 씁니다. 그레이박스 규칙(초록 띠 3~7, 보충 +2 / 생하는 기운 +1, 억제 −2 / −1)이면 처방 11개를 전수 계산할 수 있습니다.
 5. **프리미엄 iOS이므로 하이브리드 캐주얼 수익화 데이터는 적용하지 않습니다.** 프리미엄 경영 시뮬 시장 데이터는 찾지 못했습니다(공백).
-6. 사주 계산이 필요하면 [`anomaly_shop_roblox.md`](anomaly_shop_roblox.md) §4의 만세력 라이브러리를 참고하세요. ⚠️ `korean_lunar_calendar` 계열은 월주를 음력 기준으로 계산하므로 사용하면 안 됩니다.
+6. 사주 계산이 필요하면 [`anomaly_shop_roblox.md`](../horror/anomaly_detection.md) §4의 만세력 라이브러리를 참고하세요. ⚠️ `korean_lunar_calendar` 계열은 월주를 음력 기준으로 계산하므로 사용하면 안 됩니다.
 
 ---
 

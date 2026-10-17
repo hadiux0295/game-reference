@@ -1,7 +1,7 @@
 # R-A 이상현상 점집: 점 보기 미니게임 기획서 v1 (2026-10-10 UTC)
 
 > 대상: R-A 이상현상 점집: 야간 근무 (Roblox, 호러 교대 근무, 1~4인, 10-09 선택).
-> 이 문서는 **점 보기 도구층**만 정합니다. 판정 동사, 벌점, 교대 구조, 등급은 이미 정리된 설계 시사점 12가지([`references/anomaly_shop_roblox.md`](../../references/anomaly_shop_roblox.md), 아래 "시사점 #N")를 그대로 따릅니다.
+> 이 문서는 **점 보기 도구층**만 정합니다. 판정 동사, 벌점, 교대 구조, 등급은 이미 정리된 설계 시사점 12가지([`references/anomaly_shop_roblox.md`](../../reference/genres/horror/anomaly_detection.md), 아래 "시사점 #N")를 그대로 따릅니다.
 > 상태: **초안, Hun 검토 전.** 숫자는 전부 시작값이고 Config로 분리해 플레이 테스트로 조정합니다.
 
 ## 한 줄
@@ -113,5 +113,5 @@
 
 ## 🔗 관련 문서
 - 현재 상태와 이미지: [`README.md`](README.md)
-- 설계 시사점 12가지 + Roblox 구현 자료: [`references/anomaly_shop_roblox.md`](../../references/anomaly_shop_roblox.md)
+- 설계 시사점 12가지 + Roblox 구현 자료: [`references/anomaly_shop_roblox.md`](../../reference/genres/horror/anomaly_detection.md)
 - 조사 요청: [`RESEARCH_REQUESTS.md`](RESEARCH_REQUESTS.md)

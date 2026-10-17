@@ -13,10 +13,10 @@
 
 **Godot 4.7.1 stable 헤드리스 실행 테스트 22개 항목 통과** (2026-10-09)
 
-`platforms/godot/` 폴더 자체가 테스트용 Godot 프로젝트입니다.
+`reference/platforms/godot/` 폴더 자체가 테스트용 Godot 프로젝트입니다.
 
 ```bash
-godot --headless --path platforms/godot      # 종료 코드 = 실패 개수 (0이면 통과)
+godot --headless --path reference/platforms/godot      # 종료 코드 = 실패 개수 (0이면 통과)
 ```
 
 테스트 항목([`../tests/Main.gd`](../tests/Main.gd)):
