@@ -1,7 +1,7 @@
 # 조사 요청 — R-A 이상현상 점집 (2026-10-10 UTC)
 
 > AI 팀(클라우드 세션 포함)에 맡기는 질문입니다. 먼저 [`README.md`](README.md)와 [`reading_spec_v1.md`](reading_spec_v1.md)를 읽으세요.
-> 결과는 [`references/anomaly_shop_roblox.md`](../../references/anomaly_shop_roblox.md)에 섹션을 추가하거나, 길면 `references/anomaly_shop/<주제>.md`로 새로 만드세요.
+> 결과는 [`references/anomaly_shop_roblox.md`](../../reference/genres/horror/anomaly_detection.md)에 섹션을 추가하거나, 길면 `references/anomaly_shop/<주제>.md`로 새로 만드세요.
 > [`AGENTS.md`](../../AGENTS.md) 규칙 그대로: 링크마다 **라이선스 · 상태 · 확인 날짜**, 확인 못 한 건 **미검증**, 예제 코드는 **실행했는지 여부**를 적습니다.
 > 우선순위: R1 > R2 > R7 > R3 > 나머지.
 

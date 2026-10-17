@@ -1,6 +1,7 @@
 # 우리 게임 — 목록 · 훅 게임 · 디자인 시안
 
-우리가 만들었거나 만들고 있는 게임을 한곳에 모은 스냅샷입니다. 로직을 새 게임에 옮길 때 "이미 해본 것"을 먼저 찾는 용도입니다.
+이 폴더는 저장소의 **② 우리 것** 절반입니다. 우리가 만들었거나 만들고 있는 게임을 한곳에 모은 스냅샷이고, 로직을 새 게임에 옮길 때 "이미 해본 것"을 먼저 찾는 용도입니다.
+외부 게임의 사실·수치·원전은 여기가 아니라 [`reference/`](../reference/README.md)(① 메인)에 있습니다.
 
 - 기준일: **2026-10-09** (내부 design_lab 허브 기록 기준). 상태는 이후 바뀔 수 있습니다.
 - `sim n/n` = 각 MVP의 헤드리스 규칙 시뮬레이션 통과 수. 실제 기기·플레이어 검증과는 별개입니다.
@@ -141,5 +142,5 @@
 게임 외 시안(앱 화면 · 채널 · 굿즈 등) 59건은 내부 랩에만 둡니다.
 
 ## 🔗 관련 문서
-- [`logic/genres.md`](../logic/genres.md): 위 MVP들의 장르별 루프와 함정
-- [`logic/core_systems.md`](../logic/core_systems.md) · [`platforms/roblox/`](../platforms/roblox/) · [`platforms/godot/`](../platforms/godot/)
+- [`logic/genres.md`](../reference/systems/genres.md): 위 MVP들의 장르별 루프와 함정
+- [`logic/core_systems.md`](../reference/systems/core_systems.md) · [`platforms/roblox/`](../reference/platforms/roblox/) · [`platforms/godot/`](../reference/platforms/godot/)

@@ -1,6 +1,6 @@
 # Godot 4 앱 게임 아키텍처
 
-우리 앱 게임은 **Godot 4.x**(2026-10 현재 안정판은 4.7)와 **GDScript**를 기준으로 합니다. 엔진과 무관한 로직 원칙은 [`../../logic/core_systems.md`](../../logic/core_systems.md)에 있고, 이 문서는 그 원칙을 Godot에서 **어떻게 구현하는지**를 다룹니다.
+우리 앱 게임은 **Godot 4.x**(2026-10 현재 안정판은 4.7)와 **GDScript**를 기준으로 합니다. 엔진과 무관한 로직 원칙은 [`../../logic/core_systems.md`](../../systems/core_systems.md)에 있고, 이 문서는 그 원칙을 Godot에서 **어떻게 구현하는지**를 다룹니다.
 
 ## 1. Godot 핵심 개념 ↔ 게임 로직 매핑
 

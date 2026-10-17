@@ -1,8 +1,8 @@
-# 이상현상 점집: 야간 근무 (Roblox): 참고 자료와 설계 시사점
+# 이상현상·검문 판별 게임: 설계 원전 · Roblox 호러 구현·등급 (적용: 이상현상 점집)
 
-> 대상: [`our_games`](../our_games/README.md)의 **R-A 이상현상 점집: 야간 근무** (Roblox, 호러 교대 근무, 1~4인, 10-09 선택)
+> 대상: [`our_games`](../../../our_games/README.md)의 **R-A 이상현상 점집: 야간 근무** (Roblox, 호러 교대 근무, 1~4인, 10-09 선택)
 > 훅: *손님 중 하나는 사람이 아니다. 복채를 받기 전에 걸러내라.*
-> 작업 현황 · 점 보기 기획서 · 조사 요청: [`our_games/anomaly_shop/`](../our_games/anomaly_shop/README.md) (2026-10-10)
+> 작업 현황 · 점 보기 기획서 · 조사 요청: [`our_games/anomaly_shop/`](../../../our_games/anomaly_shop/README.md) (2026-10-10)
 > 조사일: **2026-10-09**. 링크는 직접 열어 확인했고, 확인하지 못한 항목은 **미검증**으로 표시했습니다.
 
 ---

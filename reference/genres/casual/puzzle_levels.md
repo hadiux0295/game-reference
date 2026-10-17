@@ -1,6 +1,6 @@
-# 퍼즐 레벨 생성, 난이도, 하이브리드 캐주얼: 등불 항구 · 오행 정리
+# 퍼즐 레벨 생성 · 난이도 · 하이브리드 캐주얼 시장 (적용: 등불 항구 · 오행 정리)
 
-> 대상: [`our_games`](../our_games/README.md)의 **A 등불 항구 (Lantern Harbor)** 와 **A1 오행 정리**
+> 대상: [`our_games`](../../../our_games/README.md)의 **A 등불 항구 (Lantern Harbor)** 와 **A1 오행 정리**
 > 조사일: **2026-10-09**. "라이선스 없음"은 모든 권리가 보호된다는 뜻이라 **읽기만** 가능합니다. 확인하지 못한 항목은 **미검증**으로 표시했습니다.
 
 ---
@@ -95,7 +95,7 @@
 | [Jarušek & Pelánek](https://www.fi.muni.cz/~xpelanek/publications/stairs2010-final.pdf) (2010) | 상태 공간 크기나 해 길이만으로는 체감 난이도를 설명할 수 없음. **병목 구조**가 중요 |
 | [SayGames: 하이브리드 퍼즐 난이도](https://blog.say.games/posts/how-to-work-with-difficulty-in-hybrid-puzzles-so-players-dont-leave--but-stay-and-pay) (2026-07) | 실패율 50%면 평균 2회, 80%면 5회 시도지만 꼬리는 10~50회. 첫 공개 약 100판, D7/D14 판독에는 약 200판. 새 레벨 묶음은 일부 유저에게 먼저 배포. **아슬아슬한 승리** 설계 |
 
-**Godot 적용 방법:** 생성기와 솔버는 오프라인에서 돌립니다 (Godot 헤드리스 `--script`, 또는 위 MIT Go 솔버 재사용). 레벨은 JSON이나 Resource로 배포하고, CI에는 GDScript 검증기를 둡니다 ([`../platforms/godot/tests/`](../platforms/godot/tests/)와 같은 방식).
+**Godot 적용 방법:** 생성기와 솔버는 오프라인에서 돌립니다 (Godot 헤드리스 `--script`, 또는 위 MIT Go 솔버 재사용). 레벨은 JSON이나 Resource로 배포하고, CI에는 GDScript 검증기를 둡니다 ([`../platforms/godot/tests/`](../../platforms/godot/tests/)와 같은 방식).
 
 ## 4. 하이브리드 캐주얼 시장 데이터 (2025~2026)
 
