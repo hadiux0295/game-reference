@@ -108,4 +108,4 @@
 | [Liftoff × Singular 2025](https://gamedevreports.substack.com/p/liftoff-and-singular-casual-games) | 2025 | 캐주얼 CTR 9.4%(Android). 퍼즐 유입은 하이퍼캐주얼에서 29%, 다른 퍼즐에서 25% |
 | [GameAnalytics 2026 벤치마크](https://gamedevreports.substack.com/p/gameanalytics-mobile-and-pc-game) | 2026-06 | 모바일 D1 상위 25%는 30% 초과, 상위 10%는 40%. D7 중앙값 4% 미만, 상위 10%는 11~12%. D30 중앙값 약 0.7~0.8% (퍼즐 장르별 수치는 없음) |
 
-> 미검증: Sensor Tower의 "하이브리드 캐주얼 IAP +20%, $4.2B"(2차 인용), 출처가 불분명한 퍼즐 리텐션 표. Bus Jam과 Parking Jam의 1차 포스트모템은 없습니다.
+> 하이브리드 캐주얼 IAP 매출(2025): $4.2B, 전년 대비 +20% — Sensor Tower 보고서의 2차 인용 [Game World Observer](https://gameworldobserver.com/2026/01/21/in-2025-the-revenue-of-the-mobile-gaming-market-grew-but-only-slightly-analysis) (확인 2026-10-19). 다른 2차 인용 [Quash](https://quashbugs.com/blog/mobile-gaming-statistics)는 "$3.5B → $4.2B, +17.1%"로 증가율이 다름. 미검증: Sensor Tower 1차 원문의 수치와 증가율, 출처가 불분명한 퍼즐 리텐션 표. Bus Jam과 Parking Jam의 1차 포스트모템은 없습니다.

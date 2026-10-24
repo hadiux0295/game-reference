@@ -35,7 +35,7 @@
 | [AUTOMATON: "Exit 8-like" 장르명](https://automaton-media.com/en/news/20231225-24850/) (2023-12-25) | 뉴스 | 같은 배경과 시스템만 아니면 모방작도 괜찮다는 입장. I'm on Observation Duty의 신고 시스템을 1인칭으로 재배치 |
 | [Designing the bleak genius of Papers, Please](https://www.gamedeveloper.com/design/designing-the-bleak-genius-of-i-papers-please-i-) (Game Developer, 2013) | 기사 | 스크립트 입국자와 절차적 입국자를 섞음. 생성기 검증용으로 수천 명을 자동 생성. 규칙끼리 얽혀서 하나를 추가하면 다른 것이 깨짐. **캐릭터가 말하는 동시에 나온 새 규칙은 무시됨** |
 | [Road to the IGF: Papers, Please](https://www.gamedeveloper.com/design/road-to-the-igf-lucas-pope-s-i-papers-please-i-) (2014) | 인터뷰 | 총 30일, 하루에 스크립트 2~3명 + 그날 규칙으로 생성. 규칙이 쌓여 "적당히 미칠 지경"이 됨. 가장 어려운 일은 **지루한 구간 없이 스크립트 인물을 배치하는 페이싱** |
-| [Lucas Pope devlog](https://dukope.com/devlogs/papers-please/) | 1차 개발 로그 | 현지화, 모바일 포팅 기록. Papers, Please 단독 GDC 강연은 찾지 못함(미검증) |
+| [Lucas Pope devlog](https://dukope.com/devlogs/papers-please/) | 1차 개발 로그 | 현지화(2014-04-19, Part 1·2), 모바일 포팅(2022-08-06), "LCD, Please" 제작(2023-08-17) 기록, TIGSource 월별 개발 로그 묶음(최소 2013~2014-04) 포함(확인 2026-10-19). Papers, Please 단독 GDC 강연은 찾지 못함(미검증) |
 | [Papers, Please 벌점 정리](https://www.ludo.guide/guide/papers-please/citations) | 팬 가이드 | 잘못 승인, 잘못 거부, 사유 도장 없는 거부(18일차부터)가 벌점 대상. 해당 입국자 수수료 상실. 하루 2회 면제 후 5, 5, 10, 15, 20…으로 증가하고 매일 리셋 |
 | [Design details in Papers, Please](https://mechanicsofmagic.com/2021/06/05/design-details-in-papers-please/) (2021) | 블로그 | 시간 압박은 원할 때만 의도적으로 사용. 책상 공간과 서류 수가 곧 난이도. 규칙이 쌓일수록 업그레이드(검사 모드, 단축키)가 가치를 가짐 |
 | [That's not my Neighbor](https://store.steampowered.com/app/3431040/) (Nachosama, 2025-03) | Steam | 1955년 아파트 경비원. 허가, 거부, D.D.D. 신고의 3택. 캠페인(멀티 엔딩), 아케이드, 나이트메어, **커스텀(세입자 직접 설계)** 모드. 개발자 인터뷰는 찾지 못함 |
@@ -80,11 +80,11 @@
 | **Mild** | "가벼운 공포": 거친 숨소리, 심장 소리, 비명, 섬뜩한 NPC, **점프스케어** | [Content Maturity](https://create.roblox.com/docs/production/promotion/content-maturity) |
 | **Moderate** | "중간 공포": 사실적인 피가 묻은 일그러진 입 등. **비사실적인 피**(픽셀, 비현실 색)는 Mild 이하 | 같은 문서 |
 | 도박 | 플레이 가능하거나 시뮬레이션된 도박은 **모든 등급에서 금지** | 같은 문서 · [Community Standards](https://about.roblox.com/community-standards) |
-| 민감 이슈 | 종교 등 **현재 양극화된 사회 이슈가 주제**면 16+로 분류되고 노출되지 않음. 사주나 점술은 예시에 없음. 단순히 등장하는 정도는 신고 불필요 | 같은 문서 (사주 해석은 우리 판단, 미검증) |
+| 민감 이슈 | 종교 등 **현재 양극화된 사회 이슈가 주된 주제**(콘텐츠·게임플레이 대부분)면 16세 이상만 이용 가능하고, 연령 인증 유저가 아니면 추천·검색 노출 안 됨(보호자 수동 허용 가능). 사주나 점술은 예시에 없음. 단순히 등장하는 정도(예: 도시 속 종교 건물)는 신고 불필요. 개별 에셋·채팅은 해당 없음 | 같은 문서 (사주 해석은 우리 판단, 미검증) |
 | 계정 등급 (2026~) | **Roblox Kids(5~8세)**는 Minimal·Mild만, **Select(9~15세)**는 Moderate까지 노출. 16세 미만에게 노출하려면 ID 인증, 2FA, Plus/Premium 2개월(또는 환불형 수수료), 그리고 16+ 연령 인증 유저 **60일 안에 고참여 유니크 플레이 250회** 시범 통과 필요. 50,000 Robux 유료 신속 심사 있음 | [Kids & Select](https://create.roblox.com/docs/production/publishing/kids-and-select) · [뉴스룸 2026-04](https://about.roblox.com/newsroom/2026/04/introducing-roblox-kids-and-select-accounts) |
 | 설문 의무 | Maturity & Compliance 설문 마감 **2025-09-30**. 미응답 경험은 비공개 처리. 부정확한 답변은 제재 대상 | [뉴스룸 2025-08](https://about.roblox.com/newsroom/2025/08/extending-roblox-policy-on-romantic-and-sexual-content) |
 | 유료 랜덤 아이템 | 확률을 숫자로 공개해야 하고, 지역별로 `ArePaidRandomItemsRestricted` 처리 | Community Standards · Content Maturity |
-| IARC 전환 | ESRB, PEGI, GRAC(한국) 등급으로 "올해 안" 전환 예정이라고 발표. 현재 상태는 미검증 | 뉴스룸 2026-04 |
+| IARC 전환 | 2025-09-03 IARC 파트너십 발표: 미국 ESRB, 한국 GRAC, 독일 USK, 기타 유럽·영국 PEGI 등급으로 기존 성숙도 라벨을 대체할 예정. 2026-04 뉴스룸에서 "올해 안(Later this year)" 전환을 시작한다고 재발표(이 글의 예시는 ESRB·PEGI뿐). 2026-05-11 갱신 DevForum 공지도 "곧(soon)" 전환으로 표현, 2026-09 갱신 Creator Roadmap(검색 결과 요약으로 확인)에도 IARC Questionnaire가 예정 항목으로 남아 있음. 2026-10-15 기준 실제 적용 여부는 미검증 | [IR 2025-09](https://ir.roblox.com/news/news-details/2025/Roblox-Partners-With-IARC-to-Enhance-Global-Age-and-Content-Ratings/default.aspx) · [뉴스룸 2026-04](https://about.roblox.com/newsroom/2026/04/introducing-roblox-kids-and-select-accounts) · [DevForum 2026-04](https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166) · [Roadmap](https://create.roblox.com/roadmap) (확인 2026-10-15) |
 
 ## 4. 사주(만세력) 계산
 
@@ -99,9 +99,9 @@
 | [yhj1024/manseryeok](https://github.com/yhj1024/manseryeok) (npm `manseryeok` 2.0) | **MIT** | 유지 | **최적.** 천문연(KASI) 기준. 입춘 *순간*에 연주, 절기 경계에 월주가 바뀜. 1800~2300년 절기표 내장(분 단위 일치), KST, 과거 오프셋과 서머타임, 진태양시 옵션 |
 | [urstory/manseryeok-js](https://github.com/urstory/manseryeok-js) (`@fullstackfamily/manseryeok`) | **MIT** | 활발 (v1.0.8, 2026-03) | KASI 기준 1900~2050. v1.0.7부터 월주를 절기 기준으로 계산. 기본으로 경도 보정 적용 |
 | [0ssw1/sajupy](https://github.com/0ssw1/sajupy) | **MIT** | 커밋 3개 | Python. **테스트용 정답 비교 도구**로 적합 |
-| [6tail/lunar-javascript](https://github.com/6tail/lunar-javascript) | **MIT** | 유지, ~1.7k★ | 중국 팔자. 절기를 중국 시간(UTC+8) 기준으로 계산할 가능성이 있어 경계에서 1시간 오차 위험(미검증) |
+| [6tail/lunar-javascript](https://github.com/6tail/lunar-javascript) | **MIT** | 마지막 push 2025-11-05, ~1.7k★ ([GitHub API](https://github.com/6tail/lunar-javascript), 2026-10-24 확인) | 중국 팔자. 절기를 중국 시간(UTC+8) 기준으로 계산할 가능성이 있어 경계에서 1시간 오차 위험(미검증) |
 | [usingsky/korean_lunar_calendar_py](https://github.com/usingsky/korean_lunar_calendar_py) | MIT | 유지 | ⚠️ **간지를 음력 연월로 계산** (절기가 아님). 사주의 연주와 월주에는 **사용 금지**, 일주만 사용 가능 |
-| [lua-calendrica](https://ctan.org/pkg/lua-calendrica) | Apache-2.0 | 신규 (2026-07) | 유일한 Lua 구현. 원저(*Calendrical Calculations*) 코드의 상업 이용 제한 여부를 확인해야 함(미검증) |
+| [lua-calendrica](https://ctan.org/pkg/lua-calendrica) | Apache-2.0 | 신규 (2026-07 CTAN, v0.2 2026-10-13 [Codeberg](https://codeberg.org/polyglossia/lua-calendrica)) | 유일한 Lua 구현. README 기준 원저(*Calendrical Calculations* 4판) 코드 CALENDRICA 4.0에서 이식했으며, CALENDRICA 4.0도 Apache-2.0 라이선스라고 명시(확인 2026-10-19). 원저 저장소(EdReingold/calendar-code2) LICENSE 직접 확인은 미검증 |
 
 **Roblox 적용 방법:** Luau 사주 라이브러리는 없습니다. 오프라인에서 `manseryeok`(MIT, 출처 표기 유지)으로 **필요한 연도 범위의 절기표와 일주표를 생성**하고, Luau ModuleScript 데이터로 넣으세요. 게임 안에서 천문 계산을 하지 않아도 됩니다.
 

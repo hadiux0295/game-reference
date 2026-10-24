@@ -10,7 +10,7 @@
 ## 2. 대표작 (인기 게임)
 | 게임 | 플랫폼 | 하위 장르 | 핵심 루프 한 줄 | 왜 팔리나 (훅·BM) | 규모 근거 (출처·확인일) |
 |---|---|---|---|---|---|
-| Tower of Hell | 🟥 | 무체크포인트 Obby | 랜덤 탑 → 체크포인트 없이 오르기 → 시간 제한 | 떨어지는 구경거리, 스킵·속도 패스 | 1차 인터뷰 없음 `미검증` |
+| Tower of Hell | 🟥 | 무체크포인트 Obby | 랜덤 탑 → 체크포인트 없이 오르기 → 시간 제한 | 떨어지는 구경거리, 스킵·속도 패스 | 방문 약 292억 회(29,198,596,213)·즐겨찾기 1,207만·역대 최고 동접 170,829(2020-09-04) — [Rolimons](https://www.rolimons.com/game/1962086868) (트래커·2차, 확인일 2026-10-19) · 참고: 2023-11 220억 회(RoMonitor 인용, [Pocket Tactics](https://www.pockettactics.com/tower-of-hell/visits)) · 공식 페이지 방문 수·1차 인터뷰 없음 `미검증` |
 | Agar.io (원조) | 💻 웹 | .io 삼키기 | 먹고 커지기 → 느려지고 시야 확대 | 규칙 한 줄, 즉시 입장 | 공식 공식은 [OgarII](https://github.com/Luka967/OgarII) (Apache-2.0) |
 | Getting Over It · Jump King | 💻 | 무체크포인트 등반 | 떨어지면 크게 손실 | 좌절을 표현 재료로 | [Foddy 인터뷰](https://design.google/library/bennett-foddy-getting-over-it-interview) · [Jump King](https://en.wikipedia.org/wiki/Jump_King) |
 | (Roblox 타이쿤 · 라운드제 · 러너 대표작) | 🟥 📱 | | | | `비어 있음` — 다음 채움 때 Roblox 차트에서 읽는다 |
@@ -31,7 +31,10 @@
 |---|---|---|---|---|---|
 | Agar.io(OgarII) | 속도 공식 | `88 × size^-0.4396754 × moveMult` | extracted(오픈소스) | [OgarII](https://github.com/Luka967/OgarII) | 2026-10-09 |
 | Agar.io(OgarII) | 줌 공식 | `s = min(64/size, 1)^0.4`, 시야 폭 `1920/s/2` | extracted | 같은 저장소 | 2026-10-09 |
-| (Roblox Obby·타이쿤 가격·세션 수치) | | | | | `비어 있음` |
+| (Roblox Obby·타이쿤 가격·세션 수치) | | 아래 2026-10-19 보강 (동접·방문·일부 게임패스; 타이쿤 게임패스 가격·세션 길이 `미검증`) | inferred (트래커) | 아래 | 2026-10-19 |
+
+> 2026-10-19 배치 보강 (G-ref, 출처 URL은 Sage가 2026-10-24에 직접 열어 수치 대조):
+- Roblox 아케이드/오비/타이쿤 상위작 (2026, 트래커 수치·2차 출처, 확인일 2026-10-19): **Tower of Hell** 동접 31,904 / 방문 29,198,596,213 / 30일 피크 62,297(Rolimon's; Adellion 10-03 스냅샷은 71,822) / 역대 피크 170,829(2020-09-04) / 게임패스 Double Coins 195 R$·Halloween Coils Bundle 90 R$·Haunted Bundle 480 R$ — [Rolimon's](https://www.rolimons.com/game/1962086868) · **Escape Tsunami For Brainrots!** 동접 6,475 / 방문 5,735,630,978 / 역대 피크 4,996,032(2026-01-24) / VIP 175 R$·Speed Boost 129 R$·VIP+ 888 R$ — [Rolimon's](https://www.rolimons.com/game/131623223084840) · **+1 Speed Keyboard Escape** 30일 피크 4,611,607, 역대 7,263,327(2026-07-18, Rolimon's 인용) — [Adellion](https://adellion.com/roblox-obby-games), 게임패스 가격 `미검증` · 타이쿤 동접 1~3위: Pet Store Tycoon 14,778 / Restaurant Tycoon 3 12,618 / War Tycoon 11,663 — [rblxdb](https://rblxdb.com/best-roblox-games/tycoon), 타이쿤 게임패스 가격 `미검증`
 
 ## 5. 원전·오픈소스 (라이선스 포함)
 | 자료 | 종류 | 라이선스 | 다루는 것 | 확인일 |
@@ -50,7 +53,7 @@
 - **라운드 중 인원 1명 이하를 처리 안 함.** 빈 라운드가 끝까지 돈다.
 - **물리 잔해를 클라이언트가 소유.** Touched 위조, 점수 검증 불가.
 - **미로가 너무 쉽거나 어렵다.** 경로 비율을 재지 않고 생성만 한다.
-- **`Model:BreakJoints` 같은 Deprecated API 사용.** 대체 방식까지 확인(현재 `미검증`).
+- **`Model:BreakJoints` 같은 Deprecated API 사용.** `Model:BreakJoints`/`BasePart:BreakJoints`는 공식 문서상 Deprecated([Model](https://create.roblox.com/docs/reference/engine/classes/Model), [BasePart](https://create.roblox.com/docs/reference/engine/classes/BasePart), 확인 2026-10-19). 내장 대체 API는 없고, `BasePart:GetJoints()`를 돌며 `JointInstance`/`WeldConstraint`를 `Destroy()`하는 방식이 DevForum에서 제시됨([DevForum 2025](https://devforum.roblox.com/t/non-deprecated-alternative-to-breakjoints/3782318), [Release Notes 564 스레드](https://devforum.roblox.com/t/release-notes-for-564/2196195), 커뮤니티 출처, 확인 2026-10-19). 공식 문서의 대체 권고 문구·Deprecated 처리 릴리스 번호는 `미검증`.
 
 ## 7. 우리 게임 적용
 [`our_games/README.md`](../../../our_games/README.md) §3 엔진 프로젝트.

@@ -16,7 +16,7 @@
 | I'm on Observation Duty 1~5 | 💻 PC | 이상현상 신고 | CCTV 감시 → 위치·종류 골라 신고 → 미신고 누적 시 게임 오버 | 8-like의 원조 신고 시스템 | [Steam](https://store.steampowered.com/app/1850550) |
 | That's not my Neighbor | 💻 PC · 📱 | 검문 + 호러 | 세입자 확인 → 허가/거부/신고 3택 → 캠페인·아케이드·커스텀 | 커스텀(세입자 직접 설계) 모드로 UGC 재생산 | [Steam](https://store.steampowered.com/app/3431040/) |
 | Five Nights at Freddy's | 💻 · 📱 | 교대 근무 생존 | 0시~6시(실제 약 10분) 전력 예산 관리 → 5밤 + 보너스 + 커스텀 밤 | 공유 자원(전력) 한 개로 긴장 생성. 프리미엄 + IP | [Wikipedia](https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s_(video_game)) |
-| Animal Hospital (Anomaly) | 🟥 Roblox | 교대 근무 판별 | 환자 줄에서 괴물 하나 걸러내기 | 2026 Roblox 호러 1위 포맷. 등급 Minimal이라 Kids 노출 | 10-09 Roblox API: 동접 약 4.4만 · 방문 24억 ([`our_games/anomaly_shop`](../../../our_games/anomaly_shop/README.md) 기록, 이후 수치 `미검증`) |
+| Animal Hospital (Anomaly) | 🟥 Roblox | 교대 근무 판별 | 환자 줄에서 괴물 하나 걸러내기 | 2026 Roblox 호러 1위 포맷. 등급 Minimal이라 Kids 노출 | 10-09 Roblox API: 동접 약 4.4만 · 방문 24억 ([`our_games/anomaly_shop`](../../../our_games/anomaly_shop/README.md) 기록) · 10-19 [Rolimon's](https://www.rolimons.com/game/78515283254292) (2차 트래커): 동접 약 6.7만(스냅샷) · 방문 약 24.4억 · 역대 최고 동접 약 127만(2026-07-10) (이후 Roblox API 수치 `미검증`) |
 
 ## 3. 핵심 루프·시스템
 자세한 근거는 [`anomaly_detection.md`](anomaly_detection.md) ★ 설계 시사점 12가지.

@@ -14,17 +14,17 @@
 |---|---|---|---|---|---|
 | StarCraft II | PC | 클래식 RTS (1v1 e스포츠) | 일꾼→자원→건물→병력→정찰→교전, 1판 10~20분 | 무료화(2017) + e스포츠 관전 문화; 매출은 스킨·워체스트 | 공식 플레이어 수 미공개. EWC 2025 SC2 종목: 18명, 상금 $700k [12] (2026-10-17) |
 | Age of Empires II: DE | PC(Steam/Xbox)/PS5 | 클래식 RTS | 시대 발전(Age-up) + 문명 보너스 + 자원 4종 | 1999년작의 리마스터 + 지속 DLC·문명 추가, 커뮤니티 랭크 | 프랜차이즈 누적 6,500만 플레이어 (World's Edge 공식, 2025-07-30) [13]; Steam 최고 동접 32,047 (2025-05-10, Steambase 추정) [14] (2026-10-17) |
-| Beyond All Reason (BAR) | PC (웹 배포 → Steam 예정) | 대규모 RTS (TA/SupCom 계보, 오픈소스) | 금속·에너지 흐름 경제 + 수백 유닛 교전 | 무료·오픈소스(GPL); 2026-06-16 Hooded Horse와 퍼블리싱 계약, Steam 유료 Premium Edition(싱글 캠페인)·멀티는 무료 유지 [15] | 동접·매출 미공개 → 미검증 (2026-10-17) |
+| Beyond All Reason (BAR) | PC (웹 배포 → Steam 예정) | 대규모 RTS (TA/SupCom 계보, 오픈소스) | 금속·에너지 흐름 경제 + 수백 유닛 교전 | 무료·오픈소스(GPL); 2026-06-16 Hooded Horse와 퍼블리싱 계약, Steam 유료 Premium Edition(싱글 캠페인)·멀티는 무료 유지 [15] | DAU 11,360·동접 2,200 돌파 (BAR 공식 X, 2025-03) [X @BAR_RTS](https://x.com/BAR_RTS/status/1902358600162357551); 매출 미공개 → 미검증 (2026-10-17) |
 | Civilization VII | PC/콘솔/Switch/iOS | 4X (턴제) | 탐험·확장·개발·정복, 시대(Age) 3단계 전환 | 프랜차이즈 브랜드(시리즈 누적 7,300만 장 sold-in, 2K 2025-02-11) [16]; 프리오더 시리즈 신기록(Take-Two) [17] | Steam 출시주 최고 동접 84,558 (2025-02-15, SteamDB 인용) [18]; Take-Two FY2026 Q4 실적에서 상위 Net Bookings 기여작으로 명시 [19]. 판매 장수 공식 미공개 → 미검증 (2026-10-17) |
 | Crusader Kings III / Europa Universalis V | PC(/콘솔) | 그랜드 스트래티지 (Paradox) | 캐릭터·국가 시뮬레이션 + 끝없는 DLC | 롱테일 DLC 모델, 스토리 생성기로서의 입소문 | CK3 누적 400만 장 (Paradox 공식, 2025-04-23) [20]; EU5 출시일(2025-11-05) Steam 최고 동접 약 7.7만 (Automaton, SteamDB 인용) [21] (2026-10-17) |
 | Rise of Kingdoms | iOS/Android | 모바일 SLG (4X) | 도시 건설·타이머·지휘관 수집·동맹 집결 | 문명 선택 + 지휘관 가챠 + 가속 아이템; 동맹 KvK 시즌 | 누적 매출 $35억+ (Sensor Tower, PocketGamer 2024-06-03) [22] (2026-10-17) |
-| Whiteout Survival | iOS/Android | 모바일 SLG (생존 테마) | 용광로(화로) 생존 레이어 → 표준 SLG 루프 | 생존·캐주얼 광고로 비(非)4X 유저 유입 후 SLG 전환; 영웅·팩·배틀패스 | 2025-03 세계 매출 1위 (Sensor Tower) [23]; 2025-12 기준 누적 $40억+ (Sensor Tower, 2026-01 보도) [24]; 2025 연매출 $21억 (Sensor Tower 2차 보도, 원문 미확인 → 미검증) [25] (2026-10-17) |
+| Whiteout Survival | iOS/Android | 모바일 SLG (생존 테마) | 용광로(화로) 생존 레이어 → 표준 SLG 루프 | 생존·캐주얼 광고로 비(非)4X 유저 유입 후 SLG 전환; 영웅·팩·배틀패스 | 2025-03 세계 매출 1위 (Sensor Tower) [23]; 2025-12 기준 누적 $40억+ (Sensor Tower, 2026-01 보도) [24]; 2025 연매출 $21억 (Sensor Tower 2차 보도, 원문 미확인 → 미검증) [25] / 별도 추정 2025 연매출 약 $14.9억 (AppMagic, 플랫폼 수수료 차감·세금 포함 IAP 기준 — 집계 기준 상이, Udonis 인용, 트래커 2차 자료) [Udonis](https://www.blog.udonis.co/statistics/whiteout-survival) (2026-10-17) |
 | Last War: Survival | iOS/Android | 모바일 SLG (좀비 테마) | "좌우 선택 러너 미니게임" 온보딩 → SLG | 광고의 미니게임을 실제 초반 플레이에 넣음 [26]; 시즌·영웅·VIP | 누적 $20억+ (AppMagic gross, 2025-02-17; 2025-01 월매출 $2.12억 기록) [27]; 2025 연매출 $15.7억 (AppMagic, D2C 제외) [28] (2026-10-17) |
 | Kingshot | iOS/Android | 모바일 SLG (중세·하이브리드) | 타워디펜스/아이들 느낌의 도입 → 4X 동맹전 | Whiteout 공식 재활용 + 수천 개/일 광고 크리에이티브 [29]; "인게임 뱅크" 과금 [30] | 2025-02-24 출시 → 2025-11-18 누적 $5억 돌파, 2025-12-01 누적 ~$5.43억, 11월 월매출 $96.7M (AppMagic) [31] (2026-10-17) |
 | Clash of Clans | iOS/Android | 모바일 빌더·PvP (SLG의 원형) | 타운홀 업그레이드(일 단위 타이머)·약탈·클랜전 | 가속 젬·골드패스; 클랜전 주기 | 누적 IAP 매출 약 $58억 (AppMagic via Statista, 2025-01 기준) [32]; Supercell 2025 매출 €26.5억·MAU 2.9억 (회사 전체) [33] (2026-10-17) |
 | Clash Royale | iOS/Android | 실시간 PvP 카드 전략 | 엘릭서 1/2.8초 → 유닛 배치 → 타워 파괴, 3분+연장 | 카드 수집·레벨업 + 패스; 2025년 Supercell 최대 성장작 (DAU 신기록, 신규 +~500%) [33] | 동상 (2026-10-17) |
 | Teamfight Tactics | PC/모바일 | 오토배틀러 | 공유 풀 상점·롤·이자·레벨업, 8인 라운드 | LoL IP·무료, 리틀 레전드·패스; 4개월 세트 로테이션 | 프랜차이즈 누적 3억+ 플레이어 (Riot, Macao Open 2024-12) [34] (2026-10-17) |
-| Super Auto Pets | PC/모바일/웹 | 캐주얼 오토배틀러 (비동기) | 턴당 10골드, 펫 3골드, 롤 1골드, 10승 목표 | 무료 + 펫 팩 판매; 비동기 매칭으로 "생각할 시간" 제공 | 플레이어·매출 공식 수치 없음 → 미검증 (Wikipedia: 스트리머 계기 인기) [35] (2026-10-17) |
+| Super Auto Pets | PC/모바일/웹 | 캐주얼 오토배틀러 (비동기) | 턴당 10골드, 펫 3골드, 롤 1골드, 10승 목표 | 무료 + 펫 팩 판매; 비동기 매칭으로 "생각할 시간" 제공 | 플레이어·매출 공식 수치 없음 → 미검증 (Wikipedia: 스트리머 계기 인기) [35]; Google Play 1,000,000+ 다운로드 ([AppBrain](https://www.appbrain.com/app/super-auto-pets/com.teamwood.spacewood.unity) 표기 — 트래커·2차, 2026-10-19 확인) (2026-10-17) |
 
 ## 3. 핵심 루프·시스템
 
@@ -36,7 +36,7 @@
 - **오토배틀러의 상점·롤·경제**: TFT는 8인이 **공유 풀**에서 뽑는다(1코 30장, 2코 25, 3코 18, 4코 10, 5코 9 — Set 18 기준, 커뮤니티 정리) [42]. 은행 10골드당 이자 1(최대 5, 50골드), 연승/연패 보너스, PvP 승리 +1 (커뮤니티 가이드) [43]. Super Auto Pets는 턴당 10골드 고정, 펫 3골드, 롤 1골드, 홀수 턴마다 티어 해금, 비동기 대전 [44][35] — "경제 관리"를 최소화해 캐주얼화.
 - **결정론적 락스텝 네트워킹 (RTS 표준)**: 유닛 상태가 아니라 **명령만** 교환하고 모든 클라이언트가 동일 시뮬레이션을 돌린다. AoE(1997~): 통신 턴 ~200ms, 명령은 2턴 뒤 실행, 28.8 모뎀·8인 목표, 유저는 ~250ms 지연까지 체감 양호, 500ms까지 플레이 가능 [1]. SupCom: 시뮬 10fps 고정·P2P·IEEE754 엄수, 디싱크는 대개 초기화 안 된 변수·댕글링 포인터 [40]. 부동소수·RNG 호출 순서가 흔한 디싱크 원인. 모바일 SLG·Clash Royale은 서버 권위형이므로 이 모델과 다름 (서버 구조 공식 자료 미확인 → 미검증).
 - **실시간 카드 전략 (Clash Royale)**: 엘릭서 1/2.8초(최대 10), 정규 3분 중 3분째 x2, 연장 2분(x2→마지막 1분 x3) [8][9][10]. "자원 생성 속도가 고정"이라 전략이 템포·교환비(trade)로 압축된다.
-- **턴제 택틱스 (짧게)**: XCOM류·Into the Breach는 정보 공개(적 의도 표시)와 확률 표기가 핵심 설계 변수. 수치 미조사 → 미검증.
+- **턴제 택틱스 (짧게)**: XCOM류·Into the Breach는 정보 공개(적 의도 표시)와 확률 표기가 핵심 설계 변수. Into the Breach는 "모든 적 공격을 사전 표시(telegraph)"(공식) ([Subset](https://subsetgames.com/itb.html)), 기체 3대·맵별 목표·고정 턴 수 ([Wikipedia](https://en.wikipedia.org/wiki/Into_the_Breach)), 8×8 격자(리뷰) ([Hardcore Gamer](https://hardcoregamer.com/reviews/review-into-the-breach/293698/)) — 맵당 턴 수 미검증. XCOM 2는 표시 확률 뒤에 숨은 보정: Rookie 명중률 ×1.2·Veteran ×1.1, 빗나감 연속 시 50% 이상 사격에 +10(명중 시 리셋), 보정 상한 95 (커뮤니티 위키·포럼 인용 ini) ([XCOM Wiki](https://xcom.fandom.com/wiki/Game_difficulty_(XCOM_2)) · [Steam 토론 ini](https://steamcommunity.com/app/268500/discussions/0/412447613579208118/)). Legend 무보정·XCOM: EU(2012) 수치 → 미검증.
 - **타워 디펜스 (포인터)**: 웨이브 → 처치 보상 → 타워 배치·업그레이드 → 다음 웨이브. 경로는 웨이포인트 배열 또는 플로우 필드, 타겟팅 규칙 First/Last/Strongest/Closest, 웨이브는 데이터 테이블. 적이 수백이면 좌표만 시뮬레이션하고 렌더 분리. 수치는 [`../../data/td_progression.md`](../../data/td_progression.md), 층 순서 TD 전수 평가는 [`defense_management_survivors.md`](defense_management_survivors.md).
   Kingshot 도입부·Clash Royale 타워 방어가 TD 문법을 빌려 쓴다.
 
@@ -56,6 +56,10 @@
 | AoE (1500 Archers) | 락스텝 파라미터 | 통신 턴 ~200ms, 2턴 지연 실행, 유저 체감 250ms 양호/500ms 한계, 명령 평균 1.5~2초당 1개(전투 시 3~4/초) | official (Ensemble 개발자 논문, 2001) | [1] | 2026-10-17 |
 | Supreme Commander | 시뮬 틱 | 시뮬레이션 10fps 고정, 렌더/UI 별도, P2P 명령 전송 | official (전 GPG 엔지니어 블로그, 2011) | [40] | 2026-10-17 |
 
+> 2026-10-19 배치 보강 (G-ref, 출처 URL은 Sage가 2026-10-24에 직접 열어 수치 대조):
+- 오토배틀러 상점 확률(레벨별): **TFT 세트 18 'Enchanted Wilds'** — Lv1·2 100/0/0/0/0%, Lv3 75/25/0/0/0%, Lv4 55/30/15/0/0%, Lv5 45/33/20/2/0%, Lv6 30/40/25/5/0%, Lv7 16/30/43/10/1%, Lv8 15/20/32/30/3%, Lv9 10/17/25/33/15%, Lv10 5/10/20/40/25%, Lv11 1/2/12/50/35% (1~5코스트 순), 기물 풀 30/25/18/10/9 — 출처: https://www.esportstales.com/teamfight-tactics/champion-pool-size-and-draw-chances (2차 출처·팬사이트, Riot 패치노트 원문 `미검증`, 적용 패치 번호 `미검증`; 확인일 2026-10-19). **Dota Underlords** — 플레이어 레벨이 상점 5칸 각각의 티어 확률을 결정(https://dotaunderlords.fandom.com/wiki/Shop); 레벨별 확률 수치 `미검증`.
+- 타워 판매 환급률(투자 골드 대비): Bloons TD 6 = 70% (타워+업그레이드 총비용 기준; Better Sell Deals 지식 시 75%, 바나나 농장·몽키 빌리지 72%→77%) [출처: https://bloons.fandom.com/wiki/Selling , https://www.bloonswiki.com/Cash , 확인일 2026-10-19, 팬 위키] / Kingdom Rush = 60% (KR1·KR2·KR5 기본값; 업그레이드로 90%) [출처: https://kingdomrushtd.fandom.com/wiki/Upgrades , https://steamcommunity.com/sharedfiles/filedetails/?id=2812921847 , 확인일 2026-10-19, 팬 위키·Steam 가이드] / Tower Defense Simulator = 약 33%(1/3) [출처: https://en.namu.wiki/w/Tower%20Defense%20Simulator , https://tds.fandom.com/wiki/Skills (기본 ~33.33% 추정), 확인일 2026-10-19; 상충: https://dungeonpath.com/games/tower-defense-simulator/ 는 70%로 기재] (공식 1차 출처 미검증)
+
 ## 5. 원전·오픈소스 (라이선스 포함)
 
 | 자료 | 종류 | 라이선스 | 다루는 것 | 확인일 |
@@ -68,7 +72,7 @@
 | OpenTTD (github.com/OpenTTD/OpenTTD) | 교통/경제 시뮬 | GPL-2.0 (README 3.0 Licensing; 일부 서드파티 Zlib/MIT/Boost) ★8.4k [47] | 경제 시뮬·수요/공급·멀티 동기화 참고 | 2026-10-17 |
 | "1500 Archers on a 28.8" (Game Developer, 2001-03-22, Paul Bettner & Mark Terrano) | 논문/기사 | 저작권 기사(오픈 라이선스 아님) | 락스텝 원전: 통신 턴·속도 제어·디싱크 디버깅·교훈 [1] | 2026-10-17 |
 | "Synchronous RTS Engines and a Tale of Desyncs" (+ "2: Sync Harder") Forrest Smith, 2011 | 블로그 (Game Developer 재게재) | 저작권 글 | SupCom/Demigod 락스텝 구조, 10fps 시뮬, 디싱크 원인 [40][48] | 2026-10-17 |
-| FAForever/fa (github.com/FAForever/fa) | SupCom: Forged Alliance 커뮤니티 Lua 코드 ★265 | 사이드바·LICENSE 파일 미확인 → **미검증** [49] | 실제 상용 락스텝 RTS의 밸런스·유닛 Lua | 2026-10-17 |
+| FAForever/fa (github.com/FAForever/fa) | SupCom: Forged Alliance 커뮤니티 Lua 코드 ★266 | 라이선스 미표기 (사이드바 License 항목 없음·루트에 LICENSE 파일 없음·README에도 언급 없음) → 오픈 라이선스 아님, 재사용 시 별도 확인 필요 [49] (GitHub API license=null, 2026-10-24 확인) | 실제 상용 락스텝 RTS의 밸런스·유닛 Lua | 2026-10-17 |
 | godot-open-rts (github.com/lampe-games/godot-open-rts) | Godot 4.3 RTS 데모/템플릿 | MIT (사이드바·README) ★1.1k; 3D 에셋은 Kenney Space Kit [50] | 포그오브워, 미니맵, 군집 이동, AI 스커미시 | 2026-10-17 |
 | godot-rts-advanced-lite (github.com/openclawaimac/godot-rts-advanced-lite) | Godot 4.7 RTS 스타터 (typed GDScript) | MIT (README "Licence: MIT"; Pro판은 상용 EULA) ★1 — 신생, 검증 부족 [51] | 선택·진형·경로탐색·생산 큐·헤드리스 테스트 | 2026-10-17 |
 

@@ -13,12 +13,12 @@
 | 게임 | 플랫폼 | 하위 장르 | 핵심 루프 한 줄 | 왜 팔리나 (훅·BM) | 규모 근거 (출처·확인일) |
 |---|---|---|---|---|---|
 | Royal Match (Dream Games) | iOS/Android | 매치3 (레벨형) | 4색·평균 25무브 보드에서 목표 달성 → 다음 레벨, 실패하면 목숨 차감 | 코인 단일 하드커런시로 목숨 리필·부스터·"무브 5개 추가" 컨티뉴를 모두 묶음. 유료 UA 비중이 압도적(2023년 설치의 61.5%가 유료, Sensor Tower) | Sensor Tower 추정 연매출 2021 $172M → 2022 $428M → 2023 $851M → 2024 $1.46B → 2025 $1.37B(첫 감소) [1]. AppMagic: 누적 총매출 $6B(2025-05), 순IAP $3.6B, 누적 DL 351M, RpD $15.6 [2][3]. 2026-10-17 |
-| Candy Crush Saga (King) | iOS/Android/웹 | 매치3 | 15,000+ 레벨을 순차 진행, "거의 깼다" 상태에서 유료 추가 무브 | 레벨 난이도 데이터 튜닝의 원조. 레벨 65("너무 어려운 레벨")가 역대 최고 전환·최고 매출·최고 이탈 레벨(King GDC 2024) [35] | 2023-07 Royal Match에 월매출·DL 모두 역전당함($104M vs $112M, Sensor Tower) [4]. 2025 연매출은 출처별 상이($876.5M TechSpot 보도 등) → `미검증`. 2026-10-17 |
+| Candy Crush Saga (King) | iOS/Android/웹 | 매치3 | 15,000+ 레벨을 순차 진행, "거의 깼다" 상태에서 유료 추가 무브 | 레벨 난이도 데이터 튜닝의 원조. 레벨 65("너무 어려운 레벨")가 역대 최고 전환·최고 매출·최고 이탈 레벨(King GDC 2024) [35] | 2023-07 Royal Match에 월매출·DL 모두 역전당함($104M vs $112M, Sensor Tower) [4]. 2025 연매출은 출처별 상이: $876.5M(TechSpot, "reportedly"·원출처 미명시) ([TechSpot](https://www.techspot.com/news/113475-candy-crush-generates-nearly-1-billion-annually-14.html)) / $875M(Engadget의 Bloomberg 인용) ([Engadget](https://www.engadget.com/2261707/candy-crush-developers-are-planning-a-strike-for-next-week/)) / ~$1B 순IAP(AppMagic 추정, MobileGamer 인용, 스토어 수수료·광고·웹샵 제외) ([MobileGamer](https://mobilegamer.biz/microsofts-1-7bn-mobile-game-empire-what-works-what-doesnt-and-whats-next/)) → King 미공시로 공식치 `미검증`. 2026-10-17 |
 | Block Blast! (Hungry Studio) | iOS/Android | 블록 퍼즐 (무한·광고형) | 8×8 보드에 조각 배치, 줄 완성 시 제거, 못 놓으면 게임오버 | 실패해도 손실이 없는 "무한 세션" + 배너·전면·리바이브 보상형 광고 = 거의 순수 IAA 모델 | 2025년 전 세계 DL 1위 356.2M(AppMagic, 1/1–12/22) [5]. 광고매출 추정: 2025-06 Android 일 ~$584K(월 ~$17.5M, 추정, 출처 미명시) [6]; 2026년 1–5월 광고매출 ~$127M(Sensor Tower, DoF 인용) [7]. 2026-10-17 |
 | Gossip Harbor (Microfun) | iOS/Android | 머지-2 + 스토리 | 에너지로 제너레이터 탭 → 아이템 머지 → 주문 납품 → 코인으로 스토리/리노베이션 진행 | 에너지 한도가 핵심 과금 레버, 보드 공간 압박, 월 단위 시즌·이벤트 겹치기 [9] | AppMagic: 2022-06 출시 후 누적 IAP $723M+, DL 92.4M, 2025-10 월 IAP ~$62M(머지2 장르 월간 최고) [8]. 2026-10-17 |
 | Hexa Sort (Lion Studios → Cheer Games) | iOS/Android | 정렬(Sort) 퍼즐, 하이브리드 캐주얼 | 색깔 육각 타일 스택을 보드에 놓아 같은 색 10개 모으면 제거 | 하이퍼캐주얼 수준의 광고 소재 적합성 + 레벨·보드 확장 메타 | Sensor Tower: 누적 IAP $47M+, 활성 유저 ~800만(2026-02) [13]; 스튜디오 자체 주장 IAP $50M [12]; 2025년 Sort 하위장르 매출 ~$280M 중 ~$20M(~7%) [10]. 2026-10-17 |
 | Screw Jam (Rollic) / Screwdom (iKame) | iOS/Android | 스크루(Screw) 퍼즐 | 층층이 쌓인 판에서 색 나사를 빼서 같은 색 박스에 채움, 도크(임시 보관) 슬롯 제한 | 레벨 구조 자체가 과금 포인트(도크 확장·박스 추가·유리 깨기), Screwdom은 수 분 투자 뒤 "레벨 살리기" 엔드게임 오퍼 [11] | Screw Jam 2024 IAP ~$25M; Screwdom 2025 IAP $75M+(매 레벨 전면광고 병행) [11]. Screw 하위장르 2025 매출 $206M+(전년 대비 ~2배), DL ~399M [10]. 2026-10-17 |
-| Bus Jam / Color Block Jam (Rollic 등) | iOS/Android | 잼(Jam) 정렬 퍼즐 | 색 승객을 줄 세워 같은 색 버스에 태움 / 색 블록을 같은 색 문으로 빼냄, 대기 슬롯 제한 | 교착(choke point) 설계 + 실패 직전 "슬롯 추가" 과금 | Block 하위장르 2025 매출 ~$183M, 매출 ~2,900% 급증, Color Block Jam이 ~75% 점유 [10]. Bus Jam 개별 수치: 2024-12 기준 DL 14.6M+·매출 $7M+(costcenter.net, 약한 출처) [44] → `미검증`. 2026-10-17 |
+| Bus Jam / Color Block Jam (Rollic 등) | iOS/Android | 잼(Jam) 정렬 퍼즐 | 색 승객을 줄 세워 같은 색 버스에 태움 / 색 블록을 같은 색 문으로 빼냄, 대기 슬롯 제한 | 교착(choke point) 설계 + 실패 직전 "슬롯 추가" 과금 | Block 하위장르 2025 매출 ~$183M, 매출 ~2,900% 급증, Color Block Jam이 ~75% 점유 [10]. Bus Jam 개별 수치: Google Play(Rollic Games) 설치 10M+(Android 단독, 스토어 페이지) ([Google Play](https://play.google.com/store/apps/details?id=com.nt.games.busjam&hl=en_US)); 2024-12-01 기준 누적 DL 14.6M+·매출 $7M+(costcenter.net 경쟁작 분석, 데이터 출처·매출 정의 미명시, 약한 출처) [44] → 누적 DL·매출 `미검증`. 2026-10-17 |
 | Monopoly GO! (Scopely) | iOS/Android | 캐주얼 보드(주사위 롤러) | 주사위 굴려 보드 한 바퀴 → 돈·스티커·이벤트 토큰 획득 → 랜드마크 건설 | 실시간 이벤트 겹치기·친구 선물·스티커 교환 등 소셜 라이브옵스. "70%가 매일 복귀"(Scopely 주장) [14] | Sensor Tower: 2025년 중 누적 IAP $6B 돌파, 1,275일 소요(Royal Match 1,868일, Clash of Clans 2,206일) [14][15]. 2025-09 전 세계 매출 2위 [16]. 2026-10-17 |
 | Last War: Survival (FirstFun/FUNFLY) — 포인터 | iOS/Android | SLG(4X), 미니게임 광고로 유입 | 광고에서 본 레인 러너 미니게임 → 본편은 기지 건설·영웅·동맹전 | "광고 속 가짜 게임을 진짜로 만들었다"는 캠페인으로 오해 광고 논란을 정면 돌파(2024 Q4, 12.5M DL 주장) [17]. 캐주얼 아님 — 캐주얼 훅을 SLG 깔때기로 쓰는 사례로만 참조 | 2025-07/08/09 전 세계 모바일 매출 1위(Sensor Tower) [16]; 2025-02 누적 $2B+ [17]. 2026-10-17 |
 | Grow a Garden (BMWLux / Splitting Point / Do Big) | Roblox | 방치형 농장 | 씨앗 구매 → 오프라인에도 성장 → 수확·판매 → 더 비싼 씨앗, 주간 한정 아이템·펫 알 | 오프라인 성장(Roblox에서 새로운 개념), 주간 업데이트 라이브서비스, Robux로 대기 단축·타인 작물 훔치기 [18][19] | 2025-03-26 출시, 2025-08-23 동접 ~22.3M(Roblox 기록, 당시 역대 최다), 누적 방문 35.3B+(2026-05) [18]; 인수 시점 CCU ~500 → 1개월 내 1M [19]. 2026-10-17 |
@@ -35,7 +35,7 @@
 - **하이브리드 캐주얼 = 캐주얼 코어 + 메타(수집·장식·배틀패스)** — Voodoo 정의: "하이퍼캐주얼 코어 + 캐주얼/미드코어의 단순화된 메타"로 중장기 목표를 추가해 LTV를 올림 [48]. Supersonic × FutureBright 'Backyard Master' 사례: 먼저 코어 복잡도를 올려 리텐션 연장 → 집 꾸미기·펫 메타 추가 [31]. Supersonic이 제시한 끈끈함 신호: D1 ~40%, D7 15–20%(자사 블로그 기준, 업계 표준 아님) [30]. Sensor Tower: 2024년 하이브리드캐주얼 IAP 매출 +37% YoY(전 카테고리 중 최고 성장) [28].
 - **광고(보상형·전면) 수익 비율** — Homa(2023): 하이브리드캐주얼 매출의 약 50%가 광고, LTV의 30% 이상은 IAP에서 나오게 설계 권장 [29]. Sensor Tower 광고 리포트(2026): 19개국 모바일 게임 광고매출 2025년 $12B(=순IAP ~$40B 대비 ~23%), 미국은 IAP 73% / 웹스토어 14% / 광고 13%; IAP-우선 하이브리드 상위작이 IAA-우선 상위작의 ~4배 매출 [7][49]. Block Blast는 배너+짧은 전면+세션당 1회 보상형이라는 가벼운 광고 로드로 2026년 1–5월 ~$127M [7]. 하이퍼캐주얼은 UA 공급원이기도 하다: 캐주얼·퍼즐 게임 신규 유저의 29%가 하이퍼캐주얼 게임 광고에서 유입(Liftoff/Singular, 2024-02~2025-02) [27].
 - **정렬/잼 퍼즐의 레벨 생성(역순 생성·솔버)** — Ball/Water Sort는 일반적으로 NP-완전이며 최단 해 찾기도 NP-완전(Ito et al., FUN 2022) [38] → 상용 게임은 "해결 가능한 상태에서 역으로 섞기" 또는 "랜덤 생성 → 솔버 검증 → 불합격 폐기" 파이프라인을 쓴다. 오픈소스 예: wricardo/colorsortgame은 `cmd/gen`으로 생성 후 `solvable`(BFS 완전탐색)로 검증해야 levels.json에 추가 [41]. 스크루 퍼즐은 정적 레이어 구조라 "어떤 나사부터 빼느냐"의 choke point를 의도적으로 심고, 정보 은닉(Screw Jam은 반투명 유리, Screwdom은 80% 이상 숨김)으로 난이도를 조절 [11]. King은 CNN 모방학습 봇으로 신규 레벨 난이도를 예측(MCTS보다 상관 높고 연산 적음) [34].
-- **머지 보드 경제** — Gossip Harbor 분석 [9]: 에너지(제너레이터 탭당 소모)가 핵심 과금 레버, 리필 가격은 사용할수록 상승; 레벨 15 아이템 하나에 레벨 1 아이템 ~16,000개 필요(드롭 100% 가정); 10% 드롭 체인은 레벨 7 하나에 600+ 에너지; 보드 공간의 ~15%를 주문용 제너레이터가 점유해 공간 압박; 코인은 용도가 스토리/리노베이션 하나뿐, 젬은 다용도; 월 시즌(~21일) + 일일·다일 이벤트 겹치기. 이 공식이 Microfun 3개 머지 게임의 2025년 165% 매출 성장을 견인(Sensor Tower, 2차 보도) → 수치 `미검증`.
+- **머지 보드 경제** — Gossip Harbor 분석 [9]: 에너지(제너레이터 탭당 소모)가 핵심 과금 레버, 리필 가격은 처음엔 싸고 사용할수록 상승; 레벨 15 아이템 하나에 레벨 1 아이템 ~16,000개 필요(드롭 100% 가정은 저장소 해석); 10% 드롭 체인은 레벨 7 하나에 600+ 에너지; 보드 공간의 ~15%를 장기 퀘스트 아이템이 점유해 공간 압박; 코인은 용도가 스토리/리노베이션 하나뿐, 젬은 다용도; 월 시즌(목표 완주에 21일) + 일일·다일 이벤트 겹치기. Microfun 매출은 Gossip Harbor·Seaside Escape·Flambé 세 머지 게임 성장에 힘입어 2025년 165% 증가(Sensor Tower 데이터, 2차 보도 — Tiger Brokers; 10월 월간 보도에도 같은 165% YoY가 있어 연간 수치인지 확인 필요) (확인 2026-10-19).
 - **Roblox 캐주얼의 거래·희귀도·"훔치기" 소셜 훅** — Adopt Me: 펫 희귀도 + 유저 간 거래가 경제의 중심, 사기 대응으로 거래 라이선스(2020-11) [22]. Steal a Brainrot: 패시브 수입 생성기(Brainrot)를 타인이 훔칠 수 있고 쉴드/트랩으로 방어 → 세션 중 항상 긴장, 리버스(리셋)로 영구 배율 [21]. Grow a Garden: 오프라인 성장(복귀 동기) + 주간 한정 아이템(온라인 강제) + 펫 루트박스 + Robux로 타인 작물 훔치기, 트레이드 없음·선물만 [18][19]. 세 게임 모두 Do Big Studios가 지분·운영에 관여하며 "과도한 과금" 비판을 받음 [18].
 
 ## 4. 수치 (data)
@@ -56,7 +56,7 @@
 | 하이퍼캐주얼 CPI | 최신 공개 벤치마크 | 중앙값 iOS $0.42 / Android $0.20 (Tenjin×GameAnalytics, **2022 Q4** — 이후 공개 벤치마크 없음) | measured(구데이터) | [45] | 2026-10-17 |
 | Poki (웹) | 2025 플레이어 / 플레이 수 | 625M / 11.1B | 공식 블로그 | [25] | 2026-10-17 |
 
-주의: CPI 2025 수치로 떠도는 "캐주얼 iOS $1.41 / Android $0.14"는 Liftoff 원문 페이지에서 확인되지 않음 → `미검증`. 하이브리드캐주얼 전용 D1/D7 공개 벤치마크도 없음(Supersonic 블로그의 40%/15–20%는 자사 기준).
+주의: CPI 2025 캐주얼 **평균** iOS $1.41 / Android $0.14 — Liftoff 원문(2025 Casual Gaming Apps Report, Liftoff×Singular, 2024-02~2025-02)에서 확인 [27] ([Liftoff 2025](https://liftoff.ai/2025-casual-gaming-apps-report/) · [보도자료](https://www.gamespress.com/28-of-casual-game-installs-from-non-gaming-publishers-come-from-utilit), 확인 2026-10-19). 평균값이므로 위 하이퍼캐주얼 **중앙값**(2022 Q4)과 직접 비교 불가. 하이브리드캐주얼 전용 D1/D7 공개 벤치마크도 없음(Supersonic 블로그의 40%/15–20%는 자사 기준).
 
 ## 5. 원전·오픈소스 (라이선스 포함)
 
@@ -91,7 +91,7 @@
 - **광고 로드 과다로 세션 파괴** — Block Blast는 배너+짧은 전면+세션당 보상형 1회라는 가벼운 로드로도 월 $20M+ 광고매출(추정) [6][7]. 매 레벨 전면광고(Screwdom 방식 [11])는 IAP 강한 타이틀에서만 버틴다. 리바이브 보상형을 "손실 회복"에 붙이는 것이 가장 자연스러운 자리다.
 - **머지 보드 공간·에너지 밸런스 붕괴** — 주문용 제너레이터가 보드의 15%를 먹고, 희귀 체인은 600+ 에너지를 요구한다 [9]. 보드 확장을 너무 비싸게 두면 이탈, 에너지를 너무 싸게 주면 과금 레버가 사라진다. 코인 용도를 하나(스토리)로 묶어 "다음 할 일"을 항상 보여주는 것이 Gossip Harbor식 해법.
 - **Roblox 거래 경제의 사기·인플레이션** — Adopt Me는 trust trade 사기 때문에 거래 라이선스를 도입해야 했다 [22]. Grow a Garden은 아예 트레이드를 두지 않고 선물만 허용 [19] — 거래 시스템은 자동으로 "희귀도 경제"와 사기 대응 비용을 함께 가져온다.
-- **동접 기록 = 지속 가능성이 아니다** — Steal a Brainrot은 25.4M 피크 후 수개월 만에 ~215K(피크 대비 -99%, 트래커 수치, `미검증`)로 떨어졌다는 보도. 밈·"훔치기" 훅은 폭발적이지만 주간 업데이트 체력이 없으면 급락한다.
+- **동접 기록 = 지속 가능성이 아니다** — Steal a Brainrot은 2025-10 25.4M 동접 피크(PocketGamer.biz 보도; Rolimons 트래커는 25,836,222, 2025-10-11) 이후 약 1년 만에 실시간 동접이 약 11.9만~20.6만(Rolimons 118,609 / RoWatcher 205,595, 트래커 수치, 피크 대비 약 -99%; 단 최근 7일 피크는 1,196,635로 약 -95%, 확인 2026-10-19)으로 떨어졌다. "~215K" 보도 자체는 `미검증`. 밈·"훔치기" 훅은 폭발적이지만 주간 업데이트 체력이 없으면 급락한다.
 
 ## 7. 우리 게임 적용
 [`our_games/README.md`](../../../our_games/README.md) 기준. 우리 게임의 절반 이상이 이 장르다.
@@ -159,6 +159,6 @@
 44. https://costcenter.net/post/sort-jam-competitor-analysis (약한 출처)
 45. https://gamedevreports.substack.com/p/tenjin-and-gameanalytics-hypercasual-6e4
 46. https://en.wikipedia.org/wiki/Royal_Match (부스터·목숨 구조)
-47. https://wnhub.io/news/analytics/item-2393 / Playrix Homescapes 2021 리밸런스는 검색 요약 기반 → 세부 수치 `미검증`
+47. https://wnhub.io/news/analytics/item-2393 (실제 내용: Playrix Gardenscapes 레벨 디자인·A/B 테스트 강연, 2019 — Homescapes 2021 리밸런스 언급 없음) / Playrix Homescapes 2021년 6월 전 레벨 리밸런스: 평균 이동 수 35→25, 보드 색상 5→4 — https://naavik.co/digest/why-dream-games-success-is-a-challenge-to-replicate/ (2차 분석) (확인 2026-10-19) / Playrix 공식 패치노트·1차 출처 `미검증`
 48. https://www.pocketgamer.biz/interview/77247/corentin-selz-voodoo-from-hypercasual-to-hybrid-casual/
 49. https://sensortower.com/blog/gaming-deep-dive-ad-monetization-report

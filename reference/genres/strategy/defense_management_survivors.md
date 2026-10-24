@@ -39,7 +39,7 @@
 ## snake_survivor: 스네이크 × 서바이버 (동료 열차 + 원정 메타)
 
 **시사점**
-1. **진화 규칙을 열차에 대응시킵니다.** 최대 레벨 동료 칸 + 대응 유물 + 상자 = 진화 칸. 칸과 유물은 **최대 6개**로 둬서 선택에 의미가 생기게 합니다. (Vampire Survivors 규칙, 커뮤니티 가이드 기준이라 미검증: [rogueranker](https://rogueranker.com/vampire-survivors-passive-items/))
+1. **진화 규칙을 열차에 대응시킵니다.** 최대 레벨 동료 칸 + 대응 유물 + 상자 = 진화 칸. 칸과 유물은 **최대 6개**로 둬서 선택에 의미가 생기게 합니다. (Vampire Survivors 규칙: 최대 레벨 무기 + 대응 패시브 + 보물 상자 = 진화, 레벨업으로 고를 수 있는 무기 6개·패시브 6개. 스테이지에 놓인 아이템으로는 초과 가능. 위키 기준, 2026-10-19 확인: [VS Wiki 진화](https://vampire.survivors.wiki/w/Evolution), [VS Wiki 무기](https://vampire.survivors.wiki/w/Weapons), [VS Wiki 패시브](https://vampire.survivors.wiki/w/Passive_items))
 2. **아슬아슬한 실패를 설계합니다.** VS는 30분 목표를 둬서 모든 실패한 판이 "거의 다 왔다"고 느끼게 합니다. 런 사이에 유지되는 메타 골드와 무료 재분배를 함께 둡니다. ([The Conversation](https://theconversation.com/vampire-survivors-how-developers-used-gambling-psychology-to-create-a-bafta-winning-game-203613))
 3. **상자와 레벨업 연출에 공을 들입니다.** 사운드, 애니메이션, 타이밍이 핵심입니다. 개발자의 슬롯머신 업계 경험이 드러난 부분이에요. ([Mechanics of Magic](https://mechanicsofmagic.com/?p=31948))
 4. **⚠️ 경쟁작이 있습니다.**
@@ -72,5 +72,5 @@
 ### 공백 (찾지 못한 것)
 - Kingdom과 Monster Train의 GDC 강연
 - "층 순서" TD 선례
-- VS 공식 위키 (접속 불가로 진화 규칙 미검증)
+- VS 공식 위키 진화 규칙 (확인 2026-10-19, https://vampire.survivors.wiki/w/Evolution): 기본 무기 최대 레벨 + 대응 아이템 보유(필요 레벨은 경우별 상이 — 1.0 이후·DLC 무기 대부분은 패시브도 최대 레벨 필요) → 진화형 보상 상자 획득 시 진화. 진화 가능 상자는 대부분 스테이지에서 10분 이후 스폰 보스가 드롭(예외 있음). 진화 시 기본 무기는 제거·패시브는 유지, 상자당 보통 1개(일부 상자는 최대 3~5개). Bracelet 계열 등은 패시브 불필요
 - 프리미엄 경영 시뮬 시장 데이터

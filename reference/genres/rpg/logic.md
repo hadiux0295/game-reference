@@ -164,7 +164,7 @@ function onLogin(save, serverNow):
     save.last_seen_unix = serverNow        // 지급 여부와 무관하게 갱신 (중복 지급 방지)
     if reward > 0: Economy.add(save, "coins", reward, "offline")
 ```
-- **함정**: (1) `last_seen`을 지급 **전**에 갱신하면 앱 재시작마다 다시 받는다 — 계산 후 갱신하되 같은 트랜잭션에서. (2) 오프라인 수입의 `perSec`을 클라이언트가 보내게 두면 조작된다. 서버가 세이브에서 파생 계산. (3) 상한 8시간은 **예시값** (README §3: 게임별 상이, 미검증).
+- **함정**: (1) `last_seen`을 지급 **전**에 갱신하면 앱 재시작마다 다시 받는다 — 계산 후 갱신하되 같은 트랜잭션에서. (2) 오프라인 수입의 `perSec`을 클라이언트가 보내게 두면 조작된다. 서버가 세이브에서 파생 계산. (3) 상한 8시간은 **예시값** — 게임별로 다르다 (예: AFK Arena 12시간 [https://afk-arena.fandom.com/wiki/AFK_Arena_-_A_beginner's_guide_to_managing_resources, https://www.afk.global/tips — 위키/팬 가이드, 2차 출처]; Egg, Inc.는 사일로 업그레이드로 방치 시간 상한이 늘어남 [https://egg-inc.fandom.com/wiki/Grain_Silos — 위키, 2차 출처]; 공식 출처 확인 및 확인일 기재 미검증).
 - **검증** ✅ `test_offline_cap`, `test_offline_negative_rejected`
 
 ### 3.5 가차 — 확률 + 하드 천장 + 50/50
@@ -269,7 +269,7 @@ function tick(run, cfg):                                 // 1초
 | `stage.enemy_hp_rate` | 적 체력 지수 | 1.12 (예시값) | 올리면 벽이 가까워지고 환생 압력↑ / 내리면 업그레이드만으로 진행 |
 | `stage.clear_timeout_s` | 벽 판정 시간 | 60 (예시값) | 올리면 벽이 늦게 체감 / 내리면 벽이 명확 |
 | `prestige.per_point` | 환생 배율 기울기 | 0.1 (예시값) | 올리면 환생 후 이전 구간 무의미 / 내리면 리셋 손실만 느껴짐 (README §6) |
-| `offline.max_hours` | 오프라인 수입 상한 | 8 (예시값; 게임별 상이, 미검증) | 올리면 접속 동기↓ / 내리면 "벌"로 느껴짐 |
+| `offline.max_hours` | 오프라인 수입 상한 | 8 (예시값; 실제 사례: Melvor Idle 24h [https://wiki.melvoridle.com/w/Offline_Progression], AFK 아레나 12h(신규 기준, 팬 가이드) [https://www.afk.global/afk-arena/guides/tips]) | 올리면 접속 동기↓ / 내리면 "벌"로 느껴짐 |
 | `gacha.rates.5` · `hard_pity_5` | 5★ 확률·천장 | 0.6% · 90 (원신 [1]) | 확률↑ 천장↓면 매출↓ 만족↑ / 천장 없음은 규제·이탈 리스크 |
 | `gacha.featured_rate` | 픽업 당첨률 | 0.5 (원신 [1]) | 올리면 최악 케이스 완화 / 내리면 180뽑 체감 빈번 |
 | `stamina.cap` · `sec_per_point` | 세션 길이 | 200 · 480초 (원신 [45]) | 상한↑이면 몰아치기 허용 / 회복 빠르면 세션 분할 효과↓ |

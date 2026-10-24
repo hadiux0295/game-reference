@@ -43,7 +43,7 @@
 | [Network ownership](https://create.roblox.com/docs/physics/network-ownership) | 점수 판정에 쓰이는 잔해는 `SetNetworkOwner(nil)`로 **서버가 소유**하게 하세요. 클라이언트가 소유한 물리는 검증할 수 없고 Touched도 위조될 수 있습니다 |
 | [Assemblies](https://create.roblox.com/docs/physics/assemblies) | 용접된 파트는 하나의 강체입니다. 루트 파트만 Anchor하고, 속도를 직접 넣기보다 VectorForce나 LinearVelocity를 쓰세요 |
 | [Explosion](https://create.roblox.com/docs/reference/engine/classes/Explosion) | `DestroyJointRadiusPercent = 0`으로 두고, `Hit`에서 직접 조인트를 끊어 제어합니다. `ExplosionType.NoCraters` |
-| [Model:BreakJoints](https://create.roblox.com/docs/reference/engine/classes/Model#BreakJoints) | **Deprecated.** 대신 해당 `WeldConstraint`를 Destroy하거나 Enabled를 끄세요 (대체 방식은 미검증) |
+| [Model:BreakJoints](https://create.roblox.com/docs/reference/engine/classes/Model#BreakJoints) | **Deprecated** (공식 문서 확인, 2026-10-19). 대신 해당 `WeldConstraint`를 Destroy하거나 Enabled를 끄세요 (대체 방식은 미검증: 공식 안내 없음, DevForum 사용자 글만 `GetJoints()` 순회 후 `Enabled=false`/`Destroy()` 제시) |
 
 - 점수는 잔해가 **멈춘 뒤**(속도 임계값 이하가 N초 유지) 서버에서 구역별 질량이나 개수로 계산합니다.
 

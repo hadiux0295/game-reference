@@ -286,7 +286,7 @@ function unlock_decoration(wallet): return wallet.add("stars", -cfg.meta.decorat
 | 저장(§2 Profile) | [`SaveManager.gd`](../../platforms/godot/patterns/SaveManager.gd) (version·마이그레이션·원자적 저장·백그라운드 자동 저장) | [`DataService.luau`](../../platforms/roblox/patterns/DataService.luau) (세션 잠금, version) |
 | 이벤트(승리·실패·별) | [`EventBus.gd`](../../platforms/godot/patterns/EventBus.gd) 시그널 → 메타·분석·사운드 구독 | `BindableEvent`/Signal 모듈, 서버 내부 구독 |
 | 정렬 퍼즐 생성·솔버(§3.4) | 오프라인: Godot 헤드리스 `--script` 또는 Python(`sim/casual_sim.py`) → JSON 자산 + CI 검증([`tests/`](../../platforms/godot/tests/) 방식). 런타임 Godot 시작점: Matswm86/water-sort (MIT, puzzle_levels §2) | 오프라인 생성 → ModuleScript 테이블. 런타임 BFS는 서버에서만, 노드 예산 필수 |
-| 광고(§3.8) | 플러그인(AdMob 등) 완료 콜백 → `Economy.gd`로 보상. 미검증 영역(patterns README) | 보상형 광고는 Roblox에 없음(2026-10 기준 Rewarded Video 베타 여부 `미검증`). Robux 상품으로 대체 |
+| 광고(§3.8) | 플러그인(AdMob 등) 완료 콜백 → `Economy.gd`로 보상. 미검증 영역(patterns README) | Roblox 보상형 동영상 광고 있음: `AdService` + Creator Hub(Monetization ⟩ Ads ⟩ Settings ⟩ Rewarded Video) 설정. 보상은 개발자 상품(Developer Product)만 가능(Robux 지급 불가), `ProcessReceipt`에서 지급. 조건: 공개·비제한 게임, 월평균 순방문자 2,000명 이상, 퍼블리셔 13세 이상·2FA·신분증 인증, 버튼 클릭 후 재생 — [Rewarded video ads](https://create.roblox.com/docs/production/promotion/rewarded-video-ads) (2026-10-19 확인, 문서에 베타 표기 없음). 시청자 측 노출 범위(연령·지역·기기) `미검증` |
 | 난이도 봇(§3.5) | 헤드리스 CI에서 `casual_sim.py`와 같은 봇을 GDScript로 포팅하거나 Python 결과를 JSON으로 커밋 | 동일(오프라인) |
 
 ## 8. 검증 (sim/)
